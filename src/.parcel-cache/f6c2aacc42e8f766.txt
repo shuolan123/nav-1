@@ -1,0 +1,15 @@
+14
+42D:\Software\search-1\src\images\delete.png133102933181454024 0
+29D:\Software\search-1\src\dist133102997498293564 1
+31D:\Software\search-1\src\images133102933382223344 1
+35D:\Software\search-1\src\index.html133102997497432321 0
+54D:\Software\search-1\src\dist\search-1.3464ddca.js.map133102990667489041 0
+32D:\Software\search-1\src\main.js133102988099724537 0
+39D:\Software\search-1\src\images\add.png133102910645880553 0
+34D:\Software\search-1\src\style.css133102992180502827 0
+52D:\Software\search-1\src\dist\index.3a01df49.css.map133102992181260809 0
+48D:\Software\search-1\src\dist\index.3a01df49.css133102992181250826 0
+47D:\Software\search-1\src\dist\index.c4775257.js133102990667439173 0
+51D:\Software\search-1\src\dist\index.c4775257.js.map133102990667489041 0
+40D:\Software\search-1\src\dist\index.html133102997498293564 0
+50D:\Software\search-1\src\dist\search-1.3464ddca.js133102990667439173 0

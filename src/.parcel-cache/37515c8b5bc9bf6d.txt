@@ -1,0 +1,7 @@
+6
+31D:\Software\search-1\src\images133102933382223344 1
+35D:\Software\search-1\src\index.html133102986679742722 0
+32D:\Software\search-1\src\main.js133102988099724537 0
+39D:\Software\search-1\src\images\add.png133102910645880553 0
+34D:\Software\search-1\src\style.css133102977357968991 0
+42D:\Software\search-1\src\images\delete.png133102933181454024 0
